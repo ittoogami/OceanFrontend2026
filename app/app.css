@@ -1,0 +1,12 @@
+h1 {
+  color: blueviolet;
+  font-family: sans-serif;
+  transition: all 0.40s;
+}
+
+.header{
+  text-align: center;
+}
+h1:hover{
+  color: white;
+}
